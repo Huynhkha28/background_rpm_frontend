@@ -1,0 +1,14 @@
+export const bg1 = require('./bg1.png');
+export const bg2 = require('./bg2.png');
+export const bg3 = require('./bg3.png');
+export const bg4 = require('./bg4.png');
+export const bg5 = require('./bg5.png');
+export const bg6 = require('./bg6.png');
+export const bg7 = require('./bg7.png');
+export const bg8 = require('./bg8.png');
+export const bg9 = require('./bg9.png');
+export const bg10 = require('./bg10.png');
+export const bg11 = require('./bg11.png');
+export const bg12 = require('./bg12.png');
+export const bg13 = require('./bg13.png');
+export const bg14 = require('./istockphoto-495478342-612x612.jpg');
